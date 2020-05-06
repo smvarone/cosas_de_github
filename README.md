@@ -16,3 +16,5 @@ Además quería intentar poner una foto y encontré esta y es linda entonces, ¿
 ![Llama](https://i.pinimg.com/originals/c7/3e/2c/c73e2c2100c0995eb70b09aacd76a2f4.jpg)
   
 ## ¿Quién es mi colaborador?
+
+Mi nombre es Alejandro Cubillos. Estudio Ingeniería Química y Física.  Me gusta es materia, es muy interesante. Me gusta jugar micro, pero como estamos en cuarentena no puedo :(. 
