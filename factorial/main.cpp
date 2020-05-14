@@ -2,15 +2,10 @@
 using namespace std;
 
 int factorial(int i){
-    int n;
-    int fact = 1;
-    if(i<0) fact =0;
-    else if(i==0) fact=1;
-    else{
-      for(n = 1; n <= i; n++){
-        fact *= n;
-    }}
-    return fact;
+    if(i<0) return 0;
+    else if(i==0) return 1;
+    else 
+        return i*factorial(i-1);
 }
 
 int main(){
